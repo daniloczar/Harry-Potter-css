@@ -2,7 +2,7 @@
 
 .banner {
   height: 685px;
-  background: url("/assets/images/banner-houses.png") #121315 no-repeat;
+  background: url("../assets/images/banner-houses.png") #121315 no-repeat;
   background-size: cover;
   background-blend-mode: overlay;
   padding: 80px 0;
