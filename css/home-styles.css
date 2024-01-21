@@ -11,7 +11,7 @@ h2, h3, h4 {
 .banner {
   height: 850px;
   text-align: right;
-  background: url('/assets/images/banner-home.png') #121315 no-repeat;
+  background: url('../assets/images/banner-home.png') #121315 no-repeat;
   background-size: cover;
   position: relative;
 }

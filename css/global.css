@@ -145,7 +145,7 @@ button a {
 
 footer {
   min-height: 420px;
-  background: url("/assets/images/footer-image.png") #0c0c0c no-repeat;
+  background: url("../assets/images/footer-image.png") #0c0c0c no-repeat;
   background-size: cover;
   background-blend-mode: overlay;
   position: relative;
